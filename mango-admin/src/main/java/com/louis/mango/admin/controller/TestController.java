@@ -9,7 +9,7 @@ public class TestController {
 
     @RequestMapping("/git")
     public String git() throws Exception {
-        return "hello l3 -> king -> idea  -> master v006";
+        return "hello l3 -> king -> idea  -> branch v005";
     }
 
 }
