@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
         @RequestMapping("/git")
         public String git() throws Exception {
-            return "hello l3 -> king -> idea  -> branch";
+            return "hello l3 -> king -> idea  -> master v01";
         }
 }
