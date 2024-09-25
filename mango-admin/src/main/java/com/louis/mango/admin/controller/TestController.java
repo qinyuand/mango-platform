@@ -6,7 +6,7 @@ public class TestController {
 
     @RequestMapping("/git")
     public String git() throws Exception {
-        return "hello l3 -> king -> idea  -> branch v003";
+        return "hello l3 -> king -> idea  -> branch v005";
     }
 
 
