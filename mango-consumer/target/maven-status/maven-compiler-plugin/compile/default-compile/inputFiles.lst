@@ -1,0 +1,9 @@
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\MangoConsumerApplication.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\controller\MangoProducerHystrix.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\controller\ServiceController.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\controller\RibbonHelloController.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\controller\SpringConfigController.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\controller\CallHelloController.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\controller\FeignHelloController.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\controller\MangoProducerService.java
+D:\java\mango-platform\mango-consumer\src\main\java\com\louis\mango\consumer\RetryConfiguration.java

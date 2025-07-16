@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8f3356d-0e7a-4419-8e8f-dc973403e772" name="Default Changelist" comment="2">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLogController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\mango-tools\apache-maven-3.2.5\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../mango-tools/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="D:\java\mango-tools\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2vOQifWjhnNWQqXDu6QfWkO75tS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mango-zuul/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MangoMonitorApplication">
+    <configuration name="MangoAdminApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.louis.mango.admin.MangoAdminApplication" />
+      <module name="mango-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.mango.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.admin.MangoAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoBackupApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-backup" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.backup.MangoBackupApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.config.MangoConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.consumer.MangoConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-data" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.data.MangoDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.hystrix.MangoHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.member.MangoMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.monitor.MangoMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.producer.MangoProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mango-store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.mango.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.store.MangoStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.zuul.MangoZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MangoAdminApplication" />
+        <item itemvalue="Spring Boot.MangoStoreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8f3356d-0e7a-4419-8e8f-dc973403e772" name="Default Changelist" comment="" />
+      <created>1744013768367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744013768367</updated>
+      <workItem from="1744013770667" duration="6662000" />
+      <workItem from="1744026107504" duration="3993000" />
+      <workItem from="1744040024834" duration="10151000" />
+      <workItem from="1744100326770" duration="59000" />
+      <workItem from="1744200102766" duration="595000" />
+      <workItem from="1744201572595" duration="6000" />
+      <workItem from="1744256190639" duration="8000" />
+      <workItem from="1744257172957" duration="8519000" />
+      <workItem from="1744296885772" duration="5071000" />
+      <workItem from="1744466198241" duration="913000" />
+      <workItem from="1744470058497" duration="569000" />
+      <workItem from="1744598586146" duration="15000" />
+      <workItem from="1744806319046" duration="554000" />
+      <workItem from="1744878781517" duration="13000" />
+      <workItem from="1745049507498" duration="7063000" />
+      <workItem from="1745723575891" duration="2903000" />
+      <workItem from="1747555930154" duration="900000" />
+      <workItem from="1752636777827" duration="6968000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1752656783772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752656783772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="243" key="#Project_Structure" timestamp="1752636828342">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="552" y="243" key="#Project_Structure/0.0.1920.1170@0.0.1920.1170" timestamp="1752636828342" />
+    <state x="414" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1744014361558">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="414" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1744014361558" />
+    <state x="535" y="178" key="CommitChangelistDialog2" timestamp="1752669653287">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="535" y="178" key="CommitChangelistDialog2/0.0.1920.1170@0.0.1920.1170" timestamp="1752669653287" />
+    <state width="442" height="466" key="DebuggerActiveHint" timestamp="1744044859650">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="442" height="466" key="DebuggerActiveHint/0.0.1920.1170@0.0.1920.1170" timestamp="1744044859650" />
+    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog" timestamp="1752669989701">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1752669989701" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1752669968220">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1170@0.0.1920.1170" timestamp="1752669968220" />
+    <state width="1860" height="442" key="GridCell.Tab.0.bottom" timestamp="1747626375907">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375907" />
+    <state width="1860" height="442" key="GridCell.Tab.0.center" timestamp="1747626375907">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375907" />
+    <state width="1860" height="442" key="GridCell.Tab.0.left" timestamp="1747626375906">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375906" />
+    <state width="1860" height="442" key="GridCell.Tab.0.right" timestamp="1747626375907">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375907" />
+    <state width="1860" height="442" key="GridCell.Tab.1.bottom" timestamp="1747626375907">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.1.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375907" />
+    <state width="1860" height="442" key="GridCell.Tab.1.center" timestamp="1747626375907">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.1.center/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375907" />
+    <state width="1860" height="442" key="GridCell.Tab.1.left" timestamp="1747626375907">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.1.left/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375907" />
+    <state width="1860" height="442" key="GridCell.Tab.1.right" timestamp="1747626375907">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="442" key="GridCell.Tab.1.right/0.0.1920.1170@0.0.1920.1170" timestamp="1747626375907" />
+    <state width="1860" height="396" key="GridCell.Tab.2.bottom" timestamp="1744099847657">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="396" key="GridCell.Tab.2.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1744099847657" />
+    <state width="1860" height="396" key="GridCell.Tab.2.center" timestamp="1744099847657">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="396" key="GridCell.Tab.2.center/0.0.1920.1170@0.0.1920.1170" timestamp="1744099847657" />
+    <state width="1860" height="396" key="GridCell.Tab.2.left" timestamp="1744099847657">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="396" key="GridCell.Tab.2.left/0.0.1920.1170@0.0.1920.1170" timestamp="1744099847657" />
+    <state width="1860" height="396" key="GridCell.Tab.2.right" timestamp="1744099847657">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state width="1860" height="396" key="GridCell.Tab.2.right/0.0.1920.1170@0.0.1920.1170" timestamp="1744099847657" />
+    <state x="440" y="159" key="SettingsEditor" timestamp="1752669522267">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="440" y="159" key="SettingsEditor/0.0.1920.1170@0.0.1920.1170" timestamp="1752669522267" />
+    <state x="100" y="100" width="1720" height="970" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1752665949584">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="100" y="100" width="1720" height="970" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1752665949584" />
+    <state x="640" y="409" key="com.intellij.ide.util.TipDialog" timestamp="1744878781338">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="640" y="409" key="com.intellij.ide.util.TipDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1744878781338" />
+    <state x="636" y="318" width="647" height="534" key="find.popup" timestamp="1745059744780">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="636" y="318" width="647" height="534" key="find.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1745059744780" />
+    <state x="616" y="273" key="run.anything.popup" timestamp="1745059566041">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="616" y="273" key="run.anything.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1745059566041" />
+    <state x="616" y="238" width="672" height="676" key="search.everywhere.popup" timestamp="1745059554365">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="616" y="238" width="672" height="676" key="search.everywhere.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1745059554365" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLoginController.java</url>
+          <line>69</line>
+          <properties class="com.louis.mango.admin.controller.SysLoginController" method="login">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLoginController.java</url>
+          <line>49</line>
+          <properties class="com.louis.mango.admin.controller.SysLoginController" method="captcha">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
