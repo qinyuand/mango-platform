@@ -31,8 +31,8 @@
 			</el-form-item>
 		</el-form>
 		<!--表格显示列界面-->
-		<table-column-filter-dialog ref="tableColumnFilterDialog" :columns="columns"
-			@handleFilterColumns="handleFilterColumns">
+		<table-column-filter-dialog ref="tableColumnFilterDialog" :columns="columns" 
+			@handleFilterColumns="handleFilterColumns"> 
 		</table-column-filter-dialog>
 	</div>
 	<!--表格内容栏-->
@@ -57,11 +57,11 @@
 				<el-input v-model="dataForm.password" type="password" auto-complete="off"></el-input>
 			</el-form-item>
 			<el-form-item label="机构" prop="deptName">
-				<popup-tree-input
-					:data="deptData"
-					:props="deptTreeProps"
-					:prop="dataForm.deptName"
-					:nodeKey="''+dataForm.deptId"
+				<popup-tree-input 
+					:data="deptData" 
+					:props="deptTreeProps" 
+					:prop="dataForm.deptName" 
+					:nodeKey="''+dataForm.deptId" 
 					:currentChangeHandle="deptTreeCurrentChangeHandle">
 				</popup-tree-input>
 			</el-form-item>
@@ -124,7 +124,7 @@ export default {
 			dataForm: {
 				id: 0,
 				name: '',
-				password: '1234',
+				password: '123456',
 				deptId: 1,
 				deptName: '',
 				email: 'test@qq.com',
@@ -168,7 +168,7 @@ export default {
 		findUserRoles: function () {
 			this.$api.role.findAll().then((res) => {
 				// 加载角色集合
-				this.roles = res.data
+				this.roles = res.data	
 			})
 		},
 		// 批量删除

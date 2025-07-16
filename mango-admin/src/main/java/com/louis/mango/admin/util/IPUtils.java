@@ -6,11 +6,16 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.StringUtils;
 
+import java.util.regex.Pattern;
+
 /**
  * IP相关工具类
  */
 public class IPUtils {
 	private static Logger logger = LoggerFactory.getLogger(IPUtils.class);
+
+    // IP地址的正则表达式，用于简单验证
+    private static final Pattern IP_PATTERN = Pattern.compile("^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$");
 
 	/**
 	 * 获取IP地址
@@ -37,11 +42,17 @@ public class IPUtils {
             if (StringUtils.isEmpty(ip) || "unknown".equalsIgnoreCase(ip)) {
                 ip = request.getRemoteAddr();
             }
+
+            // 简单验证IP地址格式
+//            if (!StringUtils.isEmpty(ip) &&!IP_PATTERN.matcher(ip).matches()) {
+//                ip = null;
+//            }
+
         } catch (Exception e) {
         	logger.error("IPUtils ERROR ", e);
         }
         
-//        //使用代理，则获取第一个IP地址
+        //使用代理，则获取第一个IP地址
 //        if(StringUtils.isEmpty(ip) && ip.length() > 15) {
 //			if(ip.indexOf(",") > 0) {
 //				ip = ip.substring(0, ip.indexOf(","));

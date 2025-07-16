@@ -31,7 +31,7 @@ fnCreate(login, openMock)
  * @param {*} isOpen 是否开启?
  */
 function fnCreate (mod, isOpen = true) {
-
+  
   if (isOpen) {
     for (var key in mod) {
       ((res) => {

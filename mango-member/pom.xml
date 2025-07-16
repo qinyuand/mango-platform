@@ -8,7 +8,7 @@
 		<version>2.0.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.louis</groupId>8001
+	<groupId>com.louis</groupId>
 	<artifactId>mango-member</artifactId>
 	<version>1.0.0</version>
 	<name>mango-member</name>

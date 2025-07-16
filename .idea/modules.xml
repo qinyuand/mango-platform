@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mango-admin/mango-admin.iml" filepath="$PROJECT_DIR$/mango-admin/mango-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-common/mango-common.iml" filepath="$PROJECT_DIR$/mango-common/mango-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-conifg/mango-config.iml" filepath="$PROJECT_DIR$/mango-conifg/mango-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-consul/mango-consul.iml" filepath="$PROJECT_DIR$/mango-consul/mango-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-consumer/mango-consumer.iml" filepath="$PROJECT_DIR$/mango-consumer/mango-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-core/mango-core.iml" filepath="$PROJECT_DIR$/mango-core/mango-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-hystrix/mango-hystrix.iml" filepath="$PROJECT_DIR$/mango-hystrix/mango-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mango-platform.iml" filepath="$PROJECT_DIR$/.idea/mango-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-producer2/mango-producer2.iml" filepath="$PROJECT_DIR$/mango-producer2/mango-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-zipkin/mango-zipkin.iml" filepath="$PROJECT_DIR$/mango-zipkin/mango-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-zuul/mango-zuul.iml" filepath="$PROJECT_DIR$/mango-zuul/mango-zuul.iml" />
+    </modules>
+  </component>
+</project>

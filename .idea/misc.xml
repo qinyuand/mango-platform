@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mango-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-backup/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-common/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-conifg/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-consul/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-core/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-producer2/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-pom/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-member/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-store/pom.xml" />
+        <option value="$PROJECT_DIR$/mango-data/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

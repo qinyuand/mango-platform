@@ -46,7 +46,7 @@ const webpackConfig = merge(baseWebpackConfig, {
       filename: utils.assetsPath('css/[name].[contenthash].css'),
       // Setting the following option to `false` will not extract CSS from codesplit chunks.
       // Their CSS will instead be inserted dynamically with style-loader when the codesplit chunk has been loaded by webpack.
-      // It's currently set to `true` because we are seeing that sourcemaps are included in the codesplit bundle as well when it's `false`,
+      // It's currently set to `true` because we are seeing that sourcemaps are included in the codesplit bundle as well when it's `false`, 
       // increasing file size: https://github.com/vuejs-templates/webpack/issues/1110
       allChunks: true,
     }),
@@ -142,16 +142,4 @@ if (config.build.bundleAnalyzerReport) {
   webpackConfig.plugins.push(new BundleAnalyzerPlugin())
 }
 
-/*module.exports = webpackConfig*/
-
-module.exports = {
-  //...
-  devServer: {
-    allowedHosts: [
-      'cpolar.top', // 允许访问的域名地址，即花生壳内网穿透的地址
-      '.cpolar.top',   // .是二级域名的通配符
-      '.r3.cpolar.top'
-    ],
-  },
-};
-
+module.exports = webpackConfig

@@ -23,7 +23,6 @@
     <include refid="Base_Column_List" />
     from sys_log
     where id = #{id,jdbcType=BIGINT}
-    order by create_time desc
   </select>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Long">
     delete from sys_log
@@ -166,7 +165,6 @@
     select 
     <include refid="Base_Column_List" />
     from sys_log
-    order by create_time desc
   </select>
   <select id="findPageByUserName" parameterType="java.lang.String" resultMap="BaseResultMap">
   	<bind name="pattern" value="'%' + _parameter.userName + '%'" />

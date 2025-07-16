@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d166b695-2073-4a24-9c90-413424fca2ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/mango-member">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/mango-restaurant">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/mongo-member">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mango-platform" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\idea-jidian-tools\apache-maven-3.2.5\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../mango-tools/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="D:\Java\mango-tools\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P9QHkwhqgvWCoxNzcaY9fneh4y" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mango-data/src/main/java/com/louis/mango" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MangoConsumerApplication">
+    <configuration name="MangoAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.admin.MangoAdminApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoBackupApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-backup" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.backup.MangoBackupApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.config.MangoConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.consumer.MangoConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mango-data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.mango.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.data.MangoDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.hystrix.MangoHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mango-member" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.louis.mango.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.member.MangoMemberApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.monitor.MangoMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.producer.MangoProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.store.MangoStoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MangoZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.zuul.MangoZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MangoMonitorApplication" />
+      <item itemvalue="Spring Boot.MangoBackupApplication" />
+      <item itemvalue="Spring Boot.MangoConfigApplication" />
+      <item itemvalue="Spring Boot.MangoConsumerApplication" />
+      <item itemvalue="Spring Boot.MangoHystrixApplication" />
+      <item itemvalue="Spring Boot.MangoAdminApplication" />
+      <item itemvalue="Spring Boot.MangoProducerApplication" />
+      <item itemvalue="Spring Boot.MangoZuulApplication" />
+      <item itemvalue="Spring Boot.MangoStoreApplication" />
+      <item itemvalue="Spring Boot.MangoMemberApplication" />
+      <item itemvalue="Spring Boot.MangoDataApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MangoDataApplication" />
+        <item itemvalue="Spring Boot.MangoMemberApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d166b695-2073-4a24-9c90-413424fca2ce" name="Default Changelist" comment="" />
+      <created>1682866732024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682866732024</updated>
+      <workItem from="1682866733734" duration="1470000" />
+      <workItem from="1682868242692" duration="9635000" />
+      <workItem from="1682880923080" duration="4904000" />
+      <workItem from="1682909387548" duration="4237000" />
+      <workItem from="1682920771386" duration="1221000" />
+      <workItem from="1682933319237" duration="6882000" />
+      <workItem from="1682950415007" duration="573000" />
+      <workItem from="1682959937913" duration="47000" />
+      <workItem from="1682960084167" duration="3270000" />
+      <workItem from="1683041717104" duration="1790000" />
+      <workItem from="1683043656693" duration="2640000" />
+      <workItem from="1683048631702" duration="6580000" />
+      <workItem from="1683099222600" duration="6675000" />
+      <workItem from="1683510224593" duration="1992000" />
+      <workItem from="1684859997056" duration="1503000" />
+      <workItem from="1686460781168" duration="738000" />
+      <workItem from="1688053929175" duration="38000" />
+      <workItem from="1694876548895" duration="2729000" />
+      <workItem from="1696408949095" duration="59000" />
+      <workItem from="1696416114768" duration="779000" />
+      <workItem from="1697987037326" duration="3987000" />
+      <workItem from="1698891471078" duration="1370000" />
+      <workItem from="1699095674570" duration="594000" />
+      <workItem from="1702394369829" duration="40000" />
+      <workItem from="1713283586588" duration="597000" />
+      <workItem from="1723889209374" duration="3568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="432" key="GridCell.Tab.0.bottom" timestamp="1723891969098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969098" />
+    <state width="1877" height="432" key="GridCell.Tab.0.center" timestamp="1723891969098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969098" />
+    <state width="1877" height="432" key="GridCell.Tab.0.left" timestamp="1723891969098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969098" />
+    <state width="1877" height="432" key="GridCell.Tab.0.right" timestamp="1723891969098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969098" />
+    <state width="1877" height="432" key="GridCell.Tab.1.bottom" timestamp="1723891969099">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969099" />
+    <state width="1877" height="432" key="GridCell.Tab.1.center" timestamp="1723891969098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969098" />
+    <state width="1877" height="432" key="GridCell.Tab.1.left" timestamp="1723891969098">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969098" />
+    <state width="1877" height="432" key="GridCell.Tab.1.right" timestamp="1723891969099">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1723891969099" />
+    <state x="440" y="102" key="SettingsEditor" timestamp="1723891702587">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="102" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1723891702587" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1723889277399">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1723889277399" />
+    <state x="647" y="280" width="626" height="490" key="find.popup" timestamp="1723890937327">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="647" y="280" width="626" height="490" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1723890937327" />
+  </component>
+</project>
