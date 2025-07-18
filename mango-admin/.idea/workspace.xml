@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f3356d-0e7a-4419-8e8f-dc973403e772" name="Default Changelist" comment="2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLogController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,6 +184,7 @@
       <workItem from="1745723575891" duration="2903000" />
       <workItem from="1747555930154" duration="900000" />
       <workItem from="1752636777827" duration="6968000" />
+      <workItem from="1752830669211" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1752656783772</created>
@@ -212,7 +214,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -240,10 +244,10 @@
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state width="442" height="466" key="DebuggerActiveHint/0.0.1920.1170@0.0.1920.1170" timestamp="1744044859650" />
-    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog" timestamp="1752669989701">
+    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog" timestamp="1752744085555">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1752669989701" />
+    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1752744085555" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1752669968220">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
@@ -324,14 +328,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLoginController.java</url>
-          <line>69</line>
-          <properties class="com.louis.mango.admin.controller.SysLoginController" method="login">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLoginController.java</url>
           <line>49</line>
