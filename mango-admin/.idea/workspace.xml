@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f3356d-0e7a-4419-8e8f-dc973403e772" name="Default Changelist" comment="2">
+      <change afterPath="$PROJECT_DIR$/../mango-ui/mango-ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/louis/mango/admin/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/louis/mango/admin/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/louis/mango/admin/service/impl/SysUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/louis/mango/admin/service/impl/SysUserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mango-ui/src/views/Sys/User.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../mango-ui/src/views/Sys/User.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +50,20 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mango-zuul/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mango-ui/src/views/Sys/User.vue" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../mango-ui/src/views/Sys/User.vue" />
   </component>
-  <component name="RunManager" selected="Spring Boot.MangoAdminApplication">
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MangoMemberApplication">
     <configuration name="MangoAdminApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.louis.mango.admin.MangoAdminApplication" />
       <module name="mango-admin" />
@@ -184,7 +195,14 @@
       <workItem from="1745723575891" duration="2903000" />
       <workItem from="1747555930154" duration="900000" />
       <workItem from="1752636777827" duration="6968000" />
-      <workItem from="1752830669211" duration="1224000" />
+      <workItem from="1752830669211" duration="1973000" />
+      <workItem from="1752917921002" duration="1567000" />
+      <workItem from="1753059347860" duration="667000" />
+      <workItem from="1754489580837" duration="1170000" />
+      <workItem from="1754662820013" duration="8054000" />
+      <workItem from="1754749579192" duration="2917000" />
+      <workItem from="1754754116304" duration="986000" />
+      <workItem from="1754755232319" duration="7277000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1752656783772</created>
@@ -236,81 +254,149 @@
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="535" y="178" key="CommitChangelistDialog2/0.0.1920.1170@0.0.1920.1170" timestamp="1752669653287" />
-    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog" timestamp="1752831826439">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="461" height="459" key="DebuggerActiveHint" timestamp="1754762614677">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1752831826439" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1752669968220">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="461" height="459" key="DebuggerActiveHint/0.0.1920.1152@0.0.1920.1152" timestamp="1754762614677" />
+    <state width="416" height="466" key="DebuggerActiveHint/0.0.1920.1170@0.0.1920.1170" timestamp="1754718221587" />
+    <state x="92" y="91" width="1736" height="971" key="DiffContextDialog" timestamp="1754762859457">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1170@0.0.1920.1170" timestamp="1752669968220" />
-    <state width="1877" height="445" key="GridCell.Tab.0.bottom" timestamp="1752831914715">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="92" y="91" width="1736" height="971" key="DiffContextDialog/0.0.1920.1152@0.0.1920.1152" timestamp="1754762859457" />
+    <state x="92" y="92" width="1736" height="986" key="DiffContextDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1752918204156" />
+    <state x="740" y="270" key="FileChooserDialogImpl" timestamp="1754762841283">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914715" />
-    <state width="1877" height="445" key="GridCell.Tab.0.center" timestamp="1752831914714">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="740" y="270" key="FileChooserDialogImpl/0.0.1920.1152@0.0.1920.1152" timestamp="1754762841283" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1170@0.0.1920.1170" timestamp="1754718131626" />
+    <state width="1877" height="437" key="GridCell.Tab.0.bottom" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914714" />
-    <state width="1877" height="445" key="GridCell.Tab.0.left" timestamp="1752831914714">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1877" height="437" key="GridCell.Tab.0.bottom/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979506" />
+    <state width="1877" height="437" key="GridCell.Tab.0.center" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914714" />
-    <state width="1877" height="445" key="GridCell.Tab.0.right" timestamp="1752831914714">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1877" height="437" key="GridCell.Tab.0.center/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979506" />
+    <state width="1877" height="437" key="GridCell.Tab.0.left" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914714" />
-    <state width="1877" height="445" key="GridCell.Tab.1.bottom" timestamp="1752831914715">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1877" height="437" key="GridCell.Tab.0.left/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979505" />
+    <state width="1877" height="437" key="GridCell.Tab.0.right" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.1.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914715" />
-    <state width="1877" height="445" key="GridCell.Tab.1.center" timestamp="1752831914715">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1877" height="437" key="GridCell.Tab.0.right/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979506" />
+    <state width="1877" height="437" key="GridCell.Tab.1.bottom" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.1.center/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914715" />
-    <state width="1877" height="445" key="GridCell.Tab.1.left" timestamp="1752831914715">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1877" height="437" key="GridCell.Tab.1.bottom/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.1.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979506" />
+    <state width="1877" height="437" key="GridCell.Tab.1.center" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.1.left/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914715" />
-    <state width="1877" height="445" key="GridCell.Tab.1.right" timestamp="1752831914715">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1877" height="437" key="GridCell.Tab.1.center/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.1.center/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979506" />
+    <state width="1877" height="437" key="GridCell.Tab.1.left" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state width="1877" height="445" key="GridCell.Tab.1.right/0.0.1920.1170@0.0.1920.1170" timestamp="1752831914715" />
-    <state x="440" y="159" key="SettingsEditor" timestamp="1752669522267">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1877" height="437" key="GridCell.Tab.1.left/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.1.left/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979506" />
+    <state width="1877" height="437" key="GridCell.Tab.1.right" timestamp="1754762446389">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state x="440" y="159" key="SettingsEditor/0.0.1920.1170@0.0.1920.1170" timestamp="1752669522267" />
+    <state width="1877" height="437" key="GridCell.Tab.1.right/0.0.1920.1152@0.0.1920.1152" timestamp="1754762446389" />
+    <state width="1877" height="445" key="GridCell.Tab.1.right/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979506" />
+    <state width="1877" height="391" key="GridCell.Tab.2.bottom" timestamp="1754762229159">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.2.bottom/0.0.1920.1152@0.0.1920.1152" timestamp="1754762229159" />
+    <state width="1877" height="399" key="GridCell.Tab.2.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979490" />
+    <state width="1877" height="391" key="GridCell.Tab.2.center" timestamp="1754762229159">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.2.center/0.0.1920.1152@0.0.1920.1152" timestamp="1754762229159" />
+    <state width="1877" height="399" key="GridCell.Tab.2.center/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979490" />
+    <state width="1877" height="391" key="GridCell.Tab.2.left" timestamp="1754762229159">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.2.left/0.0.1920.1152@0.0.1920.1152" timestamp="1754762229159" />
+    <state width="1877" height="399" key="GridCell.Tab.2.left/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979490" />
+    <state width="1877" height="391" key="GridCell.Tab.2.right" timestamp="1754762229159">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state width="1877" height="391" key="GridCell.Tab.2.right/0.0.1920.1152@0.0.1920.1152" timestamp="1754762229159" />
+    <state width="1877" height="399" key="GridCell.Tab.2.right/0.0.1920.1170@0.0.1920.1170" timestamp="1754726979490" />
+    <state x="600" y="280" key="NewModule_or_Project.wizard" timestamp="1754755170404">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state x="600" y="280" key="NewModule_or_Project.wizard/0.0.1920.1152@0.0.1920.1152" timestamp="1754755170404" />
+    <state x="721" y="286" key="RollbackChangesDialog" timestamp="1754762977705">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state x="721" y="286" key="RollbackChangesDialog/0.0.1920.1152@0.0.1920.1152" timestamp="1754762977705" />
+    <state x="440" y="157" key="SettingsEditor" timestamp="1754755174806">
+      <screen x="0" y="0" width="1920" height="1152" />
+    </state>
+    <state x="440" y="157" key="SettingsEditor/0.0.1920.1152@0.0.1920.1152" timestamp="1754755174806" />
+    <state x="440" y="159" key="SettingsEditor/0.0.1920.1170@0.0.1920.1170" timestamp="1754718132967" />
     <state x="100" y="100" width="1720" height="970" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1752665949584">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="100" y="100" width="1720" height="970" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1752665949584" />
-    <state x="640" y="409" key="com.intellij.ide.util.TipDialog" timestamp="1744878781338">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="640" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1754755273685">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state x="640" y="409" key="com.intellij.ide.util.TipDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1744878781338" />
-    <state x="636" y="318" width="647" height="534" key="find.popup" timestamp="1745059744780">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="640" y="403" key="com.intellij.ide.util.TipDialog/0.0.1920.1152@0.0.1920.1152" timestamp="1754755273685" />
+    <state x="640" y="409" key="com.intellij.ide.util.TipDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1754662820919" />
+    <state x="420" y="316" width="1080" height="568" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1754761198024">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state x="636" y="318" width="647" height="534" key="find.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1745059744780" />
-    <state x="616" y="273" key="run.anything.popup" timestamp="1745059566041">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="420" y="316" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1152@0.0.1920.1152" timestamp="1754761198024" />
+    <state x="420" y="321" width="1080" height="568" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1170@0.0.1920.1170" timestamp="1754673095603" />
+    <state x="636" y="313" width="647" height="534" key="find.popup" timestamp="1754756318919">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state x="616" y="273" key="run.anything.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1745059566041" />
-    <state x="616" y="238" width="672" height="676" key="search.everywhere.popup" timestamp="1745059554365">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state x="636" y="313" width="647" height="534" key="find.popup/0.0.1920.1152@0.0.1920.1152" timestamp="1754756318919" />
+    <state x="636" y="318" width="647" height="534" key="find.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1754717756069" />
+    <state x="623" y="253" width="672" height="668" key="search.everywhere.popup" timestamp="1754759012851">
+      <screen x="0" y="0" width="1920" height="1152" />
     </state>
-    <state x="616" y="238" width="672" height="676" key="search.everywhere.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1745059554365" />
+    <state x="623" y="253" width="672" height="668" key="search.everywhere.popup/0.0.1920.1152@0.0.1920.1152" timestamp="1754759012851" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1754671282389" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/controller/SysLoginController.java</url>
-          <line>49</line>
-          <properties class="com.louis.mango.admin.controller.SysLoginController" method="captcha">
+          <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/service/impl/SysUserServiceImpl.java</url>
+          <line>94</line>
+          <properties class="com.louis.mango.admin.service.impl.SysUserServiceImpl" method="findByName" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/service/impl/SysUserServiceImpl.java</url>
+          <line>106</line>
+          <properties class="com.louis.mango.admin.service.impl.SysUserServiceImpl" method="findPage" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../mango-core/src/main/java/com/louis/mango/core/page/MybatisPageHelper.java</url>
+          <line>37</line>
+          <properties class="com.louis.mango.core.page.MybatisPageHelper" method="findPage">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/louis/mango/admin/service/impl/SysUserServiceImpl.java</url>
+          <line>128</line>
+          <properties class="com.louis.mango.admin.service.impl.SysUserServiceImpl" method="findUserRoles">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

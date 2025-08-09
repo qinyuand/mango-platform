@@ -94,6 +94,9 @@ public class SysUserServiceImpl  implements SysUserService {
 	@Override
 	public SysUser findByName(String name) {
 		SysUser sysUser = sysUserMapper.findByName(name);
+		if(sysUser==null){
+			return null;
+		}
 		List<SysUserRole> userRoles = findUserRoles(sysUser.getId());
 		sysUser.setUserRoles(userRoles);
 		sysUser.setRoleNames(getRoleNames(userRoles));

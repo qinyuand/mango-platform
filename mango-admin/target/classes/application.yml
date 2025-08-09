@@ -16,10 +16,10 @@ spring:
       username: root
       password: 1234
       filters: stat,wall,log4j,config
-      max-active: 100
+      max-active: 50
       initial-size: 1
-      max-wait: 60000
-      min-idle: 1
+      max-wait: 30000
+      min-idle: 5
       time-between-eviction-runs-millis: 60000
       min-evictable-idle-time-millis: 300000
       validation-query: select 'x'
@@ -40,7 +40,8 @@ management:
   endpoints:
     web:
       exposure:
-        include: "*"
+        include: health,info # 原来是"*",暴露了所有端点 现在仅仅暴露健康检查和基本信息端点 include: "*" 会暴露所有 Actuator 端点（如 env、beans、metrics、health 等），其中 env 会泄露环境变量（如数据库密码、密钥等），beans 会泄露 Spring 容器结构，风险极高。
+        exclude: env,beans # 明确排除敏感端点（可选，默认不暴露未在include中的）
   endpoint:
     health:
-      show-details: ALWAYS
+      show-details: ALWAYS # ALWAYS 会在健康检查结果中显示详细信息（如数据库连接状态、缓存集群节点、Redis 连接信息等），这些信息属于敏感数据（例如数据库 URL、用户名可能被泄露
