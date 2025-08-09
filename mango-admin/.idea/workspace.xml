@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/louis/mango/admin/service/impl/SysUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/louis/mango/admin/service/impl/SysUserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mango-ui/src/views/Sys/User.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../mango-ui/src/views/Sys/User.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +201,7 @@
       <workItem from="1754662820013" duration="8054000" />
       <workItem from="1754749579192" duration="2917000" />
       <workItem from="1754754116304" duration="986000" />
-      <workItem from="1754755232319" duration="7277000" />
+      <workItem from="1754755232319" duration="7992000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1752656783772</created>
